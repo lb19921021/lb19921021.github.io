@@ -2,5 +2,9 @@
   {
     "title": "杂货",
     "path": "zahuo"
+  },
+  {
+    "title": "linux技术",
+    "path": "linux"
   }
 ]
